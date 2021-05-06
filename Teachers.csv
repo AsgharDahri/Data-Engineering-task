@@ -1,62 +1,62 @@
-SR#1,Names,email,Domains,Designation
-0,Atif Tahir,atif.tahir@nu.edu.pk,Artificial Intellegence,Instructor
-1,Zulfiqar Memon,zulfiqar.memon@nu.edu.pk,Information Science,Assistant Professor
-2,Jawwad Shamsi,jawwad.shamsi@nu.edu.pk,Cyber Security,Assistant Professor
-3,Ghufran Ahmed,ghufran.ahmed@nu.edu.pk,internet of things,Professor
-4,Suffian Hamed,suffian.hamed@nu.edu.pk,Machine Learning,Instructor
-5,Mshahzed,mshahzed@nu.edu.pk,Information Technology (IT),Lecturer
-6,Muhammad Nouman,muhammad.nouman@nu.edu.pk,Network Security,Lecturer
-7,Hassan Jamil,hassan.jamil@nu.edu.pk,Web development,Instructor
-8,Nadeem Kafi,nadeem.kafi@nu.edu.pk,Computer Science,Professor
-9,Farrukh Hassan,farrukh.hassan@nu.edu.pk,Mobile Application Development,Instructor
-10,Fahad Sherwani,fahad.sherwani@nu.edu.pk,Mobile Application Development,Professor
-11,Aqsa Aslam,aqsa.aslam@nu.edu.pk,deep learning,Lecturer
-12,Safia,safia@nu.edu.pk,internet of things,Professor
-13,Nida Munawar,nida.munawar@nu.edu.pk,Information Systems,Assistant Professor
-14,Rizwan Qureshi,rizwan.qureshi@nu.edu.pk,Web development,Professor
-15,Romasha Khurshid,romasha.khurshid@nu.edu.pk,Mobile Application Development,Professor
-16,Anam Qureshi,anam.qureshi@nu.edu.pk,Cyber Security,Professor
-17,Sandia Kumari,sandia.kumari@nu.edu.pk,Mobile Application Development,Instructor
-18,Shahar Bano,shahar.bano@nu.edu.pk,Artificial Intellegence,Lecturer
-19,Shoaib Rauf,shoaib.rauf@nu.edu.pk,Data science,Instructor
-20,Sobia Iftikhar,sobia.iftikhar@nu.edu.pk,Machine Learning,Instructor
-21,Farah Sadia,farah.sadia@nu.edu.pk,Data science,Professor
-22,Talha Khan,talha.khan@nu.edu.pk,Web development,Assistant Professor
-23,Tania Iram,tania.iram@nu.edu.pk,Natural Processing Language NLP,Lecturer
-24,Zain Hassan,zain.hassan@nu.edu.pk,Artificial Intellegence,Assistant Professor
-25,Nausheen Shoaib,nausheen.shoaib@nu.edu.pk,Computer Science,Assistant Professor
-26,Anaum Hamid,anaum.hamid@nu.edu.pk,Machine Learning,Lecturer
-27,Basit Jasani,basit.jasani@nu.edu.pk,deep learning,Lecturer
-28,Bakhtawer Abbasi,bakhtawer.abbasi@nu.edu.pk,Cyber Security,Lecturer
-29,Javeria Farooq,javeria.farooq@nu.edu.pk,Cyber Security,Professor
-30,Atiya Jokhio,atiya.jokhio@nu.edu.pk,Mobile Application Development,Assistant Professor
-31,M Danish,m.danish@nu.edu.pk,Network Security,Instructor
-32,Msohail Afzal,msohail.afzal@nu.edu.pk,Computer Engineering,Lecturer
-33,Musawar Ali,musawar.ali@nu.edu.pk,Machine Learning,Instructor
-34,M Fahim,m.fahim@nu.edu.pk,Computer Science,Instructor
-35,Aqsa Zahid,aqsa.zahid@nu.edu.pk,Information Systems,Professor
-36,Mubashra Fayyaz,mubashra.fayyaz@nu.edu.pk,Network Security,Assistant Professor
-37,Sumaiyah,sumaiyah@nu.edu.pk,Computer Science,Instructor
-38,Hamza Ahmed,hamza.ahmed@nu.edu.pk,Network Security,Assistant Professor
-39,Fizza Aqeel,fizza.aqeel@nu.edu.pk,Natural Processing Language NLP,Assistant Professor
-40,Abeer Gauher,abeer.gauher@nu.edu.pk,Network Security,Professor
-41,Muhammad Rafi,muhammad.rafi@nu.edu.pk,Natural Processing Language NLP,Lecturer
-42,Syed Aliraza,syed.aliraza@nu.edu.pk,Data science,Lecturer
-43,Behraj Khan,behraj.khan@nu.edu.pk,Cyber Security,Lecturer
-44,Saeeda Kanwal,saeeda.kanwal@nu.edu.pk,Network Security,Lecturer
-45,Zeshan Khan,zeshan.khan@nu.edu.pk,Web development,Assistant Professor
-46,Kariz Kamal,kariz.kamal@nu.edu.pk,Information Systems,Lecturer
-47,Nimra Iqbal,nimra.iqbal@nu.edu.pk,Data science,Instructor
-48,Fahad Samad,fahad.samad@nu.edu.pk,Computer Science,Professor
-49,Shahbaz Siddiqui,shahbaz.siddiqui@nu.edu.pk,Data science,Professor
-50,Abdullah Zarshaid,abdullah.zarshaid@nu.edu.pk,Information Systems,Assistant Professor
-51,Shoaib Raza,shoaib.raza@nu.edu.pk,Natural Processing Language NLP,Lecturer
-52,Amin Sadiq,amin.sadiq@nu.edu.pk,Artificial Intellegence,Lecturer
-53,Rabia Ansari,rabia.ansari@nu.edu.pk,Natural Processing Language NLP,Instructor
-54,Abdulaziz,abdulaziz@nu.edu.pk,internet of things,Professor
-55,Abdulrahman,abdulrahman@nu.edu.pk,Cyber Security,Instructor
-56,Rauf Malick,rauf.malick@nu.edu.pk,Network Security,Assistant Professor
-57,Ubaid Aftab,ubaid.aftab@nu.edu.pk,Information Science,Instructor
-58,Rubab Jaffar,rubab.jaffar@nu.edu.pk,internet of things,Assistant Professor
-59,Ali Fatmi,ali.fatmi@nu.edu.pk,Mobile Application Development,Professor
-60,Muhammad Nadeem,muhammad.nadeem@nu.edu.pk,Information Technology (IT),Professor
+SR#1,Names,email,Designation,Domain1,Domain2,Req CGPA,Req Skill1,Req Skill2,Req Skill3
+0,Atif Tahir,atif.tahir@nu.edu.pk,Professor,Artificial Intellegence,deep learning,2.7,React js,Materialize,Matlab
+1,Zulfiqar Memon,zulfiqar.memon@nu.edu.pk,Assistant Professor,Artificial Intellegence,Computer Engineering,3.8,node Js,Vue js,pandas
+2,Jawwad Shamsi,jawwad.shamsi@nu.edu.pk,Assistant Professor,Network Security,Machine Learning,3,Spring Framework,Django,numpy
+3,Ghufran Ahmed,ghufran.ahmed@nu.edu.pk,Assistant Professor,computer vision,Machine Learning,2.8,SAAS,Materialize,TensorFlow
+4,Suffian Hamed,suffian.hamed@nu.edu.pk,Professor,Web development,deep learning,2,SAAS,Flask,Matlab
+5,Mshahzed,mshahzed@nu.edu.pk,Professor,Mobile Application Development,Natural Processing Language NLP,3.5,SAAS,UIkit,Express
+6,Muhammad Nouman,muhammad.nouman@nu.edu.pk,Assistant Professor,Web development,Computer Engineering,3.33,Spring Framework,Vue js,Matlab
+7,Hassan Jamil,hassan.jamil@nu.edu.pk,Professor,internet of things,Information Systems,2.7,Spring Framework,UIkit,Express
+8,Nadeem Kafi,nadeem.kafi@nu.edu.pk,Professor,Web development,Information Science,2.5,React js,ASP.NET,pandas
+9,Farrukh Hassan,farrukh.hassan@nu.edu.pk,Assistant Professor,computer vision,Information Systems,2.5,Spring Framework,Vue js,pytorch
+10,Fahad Sherwani,fahad.sherwani@nu.edu.pk,Assistant Professor,Network Security,deep learning,2.5,Spring Framework,Vue js,Matlab
+11,Aqsa Aslam,aqsa.aslam@nu.edu.pk,Professor,computer vision,Cyber Security,2,Angular,React Native,pandas
+12,Safia,safia@nu.edu.pk,Professor,Network Security,Cyber Security,2.8,SAAS,Flask,openCv
+13,Nida Munawar,nida.munawar@nu.edu.pk,Assistant Professor,Web development,deep learning,3.5,Spring Framework,Materialize,Express
+14,Rizwan Qureshi,rizwan.qureshi@nu.edu.pk,Assistant Professor,Network Security,Information Technology (IT),2.8,Ajax,Vue js,openCv
+15,Romasha Khurshid,romasha.khurshid@nu.edu.pk,Professor,Mobile Application Development,Machine Learning,3.5,Ajax,Vue js,TensorFlow
+16,Anam Qureshi,anam.qureshi@nu.edu.pk,Professor,Artificial Intellegence,Machine Learning,3.8,React js,ASP.NET,Express
+17,Sandia Kumari,sandia.kumari@nu.edu.pk,Professor,Data bases,Information Technology (IT),2.8,Angular,Flask,TensorFlow
+18,Shahar Bano,shahar.bano@nu.edu.pk,Assistant Professor,internet of things,deep learning,2.7,Ajax,Django,TensorFlow
+19,Shoaib Rauf,shoaib.rauf@nu.edu.pk,Assistant Professor,Web development,Information Systems,2.7,flutter,laravel,pytorch
+20,Sobia Iftikhar,sobia.iftikhar@nu.edu.pk,Assistant Professor,Mobile Application Development,Information Systems,2,node Js,React Native,openCv
+21,Farah Sadia,farah.sadia@nu.edu.pk,Assistant Professor,Artificial Intellegence,Information Systems,2.7,Angular,ajax,Matlab
+22,Talha Khan,talha.khan@nu.edu.pk,Assistant Professor,Network Security,Cyber Security,3.5,.NET,Vue js,pytorch
+23,Tania Iram,tania.iram@nu.edu.pk,Assistant Professor,computer vision,Computer Science,2.5,node Js,Flask,AWS
+24,Zain Hassan,zain.hassan@nu.edu.pk,Assistant Professor,Mobile Application Development,deep learning,3.8,Spring Framework,laravel,TensorFlow
+25,Nausheen Shoaib,nausheen.shoaib@nu.edu.pk,Professor,Mobile Application Development,Machine Learning,2.7,Angular,Django,TensorFlow
+26,Anaum Hamid,anaum.hamid@nu.edu.pk,Assistant Professor,Artificial Intellegence,Natural Processing Language NLP,2.8,Ajax,laravel,openCv
+27,Basit Jasani,basit.jasani@nu.edu.pk,Professor,Mobile Application Development,deep learning,2,Spring Framework,ASP.NET,pytorch
+28,Bakhtawer Abbasi,bakhtawer.abbasi@nu.edu.pk,Assistant Professor,Network Security,Computer Science,3,Django,ASP.NET,Matlab
+29,Javeria Farooq,javeria.farooq@nu.edu.pk,Professor,Web development,Computer Engineering,3.33,.NET,UIkit,pytorch
+30,Atiya Jokhio,atiya.jokhio@nu.edu.pk,Assistant Professor,Web development,Information Technology (IT),3.33,Bootstrap,Vue js,Express
+31,M Danish,m.danish@nu.edu.pk,Professor,Web development,Computer Engineering,2.5,Angular,laravel,numpy
+32,Msohail Afzal,msohail.afzal@nu.edu.pk,Professor,Network Security,Information Technology (IT),2,flutter,Flask,AWS
+33,Musawar Ali,musawar.ali@nu.edu.pk,Assistant Professor,virtual Reality,Natural Processing Language NLP,3.8,node Js,Vue js,openCv
+34,M Fahim,m.fahim@nu.edu.pk,Professor,internet of things,Information Science,3.33,React js,Flask,openCv
+35,Aqsa Zahid,aqsa.zahid@nu.edu.pk,Assistant Professor,Mobile Application Development,Computer Science,3,flutter,laravel,numpy
+36,Mubashra Fayyaz,mubashra.fayyaz@nu.edu.pk,Assistant Professor,internet of things,Information Systems,2,Bootstrap,JQuery,Matlab
+37,Sumaiyah,sumaiyah@nu.edu.pk,Assistant Professor,Data bases,Computer Engineering,3.5,Spring Framework,Vue js,Express
+38,Hamza Ahmed,hamza.ahmed@nu.edu.pk,Professor,Web development,Information Systems,2.8,React js,laravel,numpy
+39,Fizza Aqeel,fizza.aqeel@nu.edu.pk,Professor,Web development,Computer Science,3.5,Django,ASP.NET,AWS
+40,Abeer Gauher,abeer.gauher@nu.edu.pk,Professor,Mobile Application Development,Machine Learning,3.8,flutter,laravel,pandas
+41,Muhammad Rafi,muhammad.rafi@nu.edu.pk,Assistant Professor,Data science,Computer Science,2.5,flutter,ajax,numpy
+42,Syed Aliraza,syed.aliraza@nu.edu.pk,Professor,Network Security,Information Technology (IT),3.33,SAAS,Vue js,TensorFlow
+43,Behraj Khan,behraj.khan@nu.edu.pk,Professor,Data bases,Information Systems,3.5,React js,Materialize,Express
+44,Saeeda Kanwal,saeeda.kanwal@nu.edu.pk,Professor,computer vision,Cyber Security,2.7,Django,UIkit,TensorFlow
+45,Zeshan Khan,zeshan.khan@nu.edu.pk,Professor,Data science,Cyber Security,3.8,Angular,Flask,Matlab
+46,Kariz Kamal,kariz.kamal@nu.edu.pk,Assistant Professor,Data bases,Computer Engineering,2.7,Bootstrap,ajax,Matlab
+47,Nimra Iqbal,nimra.iqbal@nu.edu.pk,Professor,Artificial Intellegence,Information Technology (IT),2,Angular,Vue js,numpy
+48,Fahad Samad,fahad.samad@nu.edu.pk,Professor,Mobile Application Development,Computer Engineering,2.8,Spring Framework,UIkit,pandas
+49,Shahbaz Siddiqui,shahbaz.siddiqui@nu.edu.pk,Professor,Artificial Intellegence,Natural Processing Language NLP,2.7,Ajax,Vue js,TensorFlow
+50,Abdullah Zarshaid,abdullah.zarshaid@nu.edu.pk,Assistant Professor,Data science,Information Science,3.8,Django,laravel,Matlab
+51,Shoaib Raza,shoaib.raza@nu.edu.pk,Professor,Mobile Application Development,Information Systems,3.33,Angular,Django,pandas
+52,Amin Sadiq,amin.sadiq@nu.edu.pk,Professor,Artificial Intellegence,Computer Science,3.8,React js,ASP.NET,Express
+53,Rabia Ansari,rabia.ansari@nu.edu.pk,Professor,Artificial Intellegence,Information Systems,2.5,React js,React Native,pandas
+54,Abdulaziz,abdulaziz@nu.edu.pk,Professor,Mobile Application Development,Computer Engineering,3.33,SAAS,Flask,Matlab
+55,Abdulrahman,abdulrahman@nu.edu.pk,Professor,Web development,Computer Engineering,2.7,React js,Vue js,pandas
+56,Rauf Malick,rauf.malick@nu.edu.pk,Assistant Professor,Data science,Information Science,2.8,React js,Vue js,Express
+57,Ubaid Aftab,ubaid.aftab@nu.edu.pk,Professor,computer vision,deep learning,2,Angular,Vue js,AWS
+58,Rubab Jaffar,rubab.jaffar@nu.edu.pk,Professor,virtual Reality,Computer Science,3,.NET,Materialize,pandas
+59,Ali Fatmi,ali.fatmi@nu.edu.pk,Assistant Professor,internet of things,Machine Learning,2.8,Ajax,UIkit,Matlab
+60,Muhammad Nadeem,muhammad.nadeem@nu.edu.pk,Professor,computer vision,Computer Engineering,2,node Js,JQuery,TensorFlow
